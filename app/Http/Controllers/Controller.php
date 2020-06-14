@@ -13,6 +13,5 @@ class Controller extends BaseController
     
     public function text(){
         dd(111);die;
-        ddd(2222222222222222222222222222222222);die;
     }
 }
